@@ -5,7 +5,7 @@
 }
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500&display=swap');
 body{
-    background-color: #3497bb;
+    background-color: #BF6AE6;
     font-family: 'Poppins', sans-serif;
 }
 .main{
@@ -23,18 +23,23 @@ body{
     border-radius: 5px;
     padding: 10px;
 }
+#box h2{
+    font-weight: 600;
+}
 .row{
     margin: 2rem;
     width: 100%;
-    margin-left: 0;
 }
 .btn{
     width: 100%;
-    background-color:  #3497bb;
+    background-color:  #376CDE;
     padding: 5px;
     border: none;
     border-radius: 5px;
     color: #fff;
     line-height: 24px;
     font-size: 16px;
+}
+label{
+    color: #868686;
 }
